@@ -6,6 +6,7 @@ LeenCode Solution
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/FahimAfridi10/LeenCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/FahimAfridi10/LeenCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/FahimAfridi10/LeenCode/tree/master/0043-multiply-strings) |
@@ -63,9 +64,14 @@ LeenCode Solution
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/FahimAfridi10/LeenCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/FahimAfridi10/LeenCode/tree/master/0050-powx-n) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0018-4sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/FahimAfridi10/LeenCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
