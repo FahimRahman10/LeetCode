@@ -26,6 +26,7 @@ LeenCode Solution
 | [0018-4sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FahimAfridi10/LeenCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0136-single-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/FahimAfridi10/LeenCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,11 +53,13 @@ LeenCode Solution
 | [0001-two-sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/FahimAfridi10/LeenCode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0202-happy-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/FahimAfridi10/LeenCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/FahimAfridi10/LeenCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/FahimAfridi10/LeenCode/tree/master/0258-add-digits) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/FahimAfridi10/LeenCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Number Theory
 |  |
 | ------- |
@@ -70,6 +73,7 @@ LeenCode Solution
 |  |
 | ------- |
 | [0018-4sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0018-4sum) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/FahimAfridi10/LeenCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Linked List
 |  |
 | ------- |
