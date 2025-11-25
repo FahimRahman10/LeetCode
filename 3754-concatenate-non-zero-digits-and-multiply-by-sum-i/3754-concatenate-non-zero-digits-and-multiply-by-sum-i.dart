@@ -1,12 +1,16 @@
 class Solution {
   int sumAndMultiply(int n) {
-    List<int> digits = n.toString().split('').where((c) => c != '0').map(int.parse).toList();
+    int x = 0, sum = 0;
 
-    if (digits.isEmpty) return 0;
+    String s = n.toString(); 
 
-    int x = int.parse(digits.map((d) => d.toString()).join());
-    int sum = digits.fold(0, (a, b) => a + b);
-
+    for (int i = 0; i < s.length; i++) {
+      int d = int.parse(s[i]);
+      if (d != 0) {
+        x = x * 10 + d; 
+        sum += d;  
+      }
+    }
     return x * sum;
   }
 }
