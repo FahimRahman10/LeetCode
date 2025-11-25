@@ -26,6 +26,7 @@ LeenCode Solution
 | [0018-4sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FahimAfridi10/LeenCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0136-single-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/FahimAfridi10/LeenCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/FahimAfridi10/LeenCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
@@ -73,6 +74,7 @@ LeenCode Solution
 |  |
 | ------- |
 | [0018-4sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0018-4sum) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/FahimAfridi10/LeenCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/FahimAfridi10/LeenCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Linked List
 |  |
