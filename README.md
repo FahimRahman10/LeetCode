@@ -15,6 +15,7 @@ LeenCode Solution
 | [0202-happy-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/FahimAfridi10/LeenCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/FahimAfridi10/LeenCode/tree/master/0319-bulb-switcher) |
+| [0509-fibonacci-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -74,6 +75,7 @@ LeenCode Solution
 | ------- |
 | [0002-add-two-numbers](https://github.com/FahimAfridi10/LeenCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/FahimAfridi10/LeenCode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -85,4 +87,12 @@ LeenCode Solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/FahimAfridi10/LeenCode/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
