@@ -114,4 +114,8 @@ LeenCode Solution
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/FahimAfridi10/LeenCode/tree/master/0191-number-of-1-bits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/FahimAfridi10/LeenCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
