@@ -18,6 +18,7 @@ LeenCode Solution
 | [0263-ugly-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/FahimAfridi10/LeenCode/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/FahimAfridi10/LeenCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
@@ -83,6 +84,7 @@ LeenCode Solution
 | ------- |
 | [0002-add-two-numbers](https://github.com/FahimAfridi10/LeenCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/FahimAfridi10/LeenCode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/FahimAfridi10/LeenCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
