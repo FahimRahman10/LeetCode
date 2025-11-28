@@ -40,6 +40,7 @@ LeenCode Solution
 |  |
 | ------- |
 | [0136-single-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/FahimAfridi10/LeenCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/FahimAfridi10/LeenCode/tree/master/0389-find-the-difference) |
 ## String
@@ -106,4 +107,8 @@ LeenCode Solution
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/FahimAfridi10/LeenCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
