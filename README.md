@@ -11,6 +11,7 @@ LeenCode Solution
 | [0012-integer-to-roman](https://github.com/FahimAfridi10/LeenCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/FahimAfridi10/LeenCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/FahimAfridi10/LeenCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/FahimAfridi10/LeenCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/FahimAfridi10/LeenCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/FahimAfridi10/LeenCode/tree/master/0258-add-digits) |
@@ -26,6 +27,7 @@ LeenCode Solution
 | [0001-two-sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FahimAfridi10/LeenCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/FahimAfridi10/LeenCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0136-single-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/FahimAfridi10/LeenCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/FahimAfridi10/LeenCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
