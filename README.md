@@ -33,12 +33,14 @@ LeenCode Solution
 |  |
 | ------- |
 | [0136-single-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/FahimAfridi10/LeenCode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/FahimAfridi10/LeenCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/FahimAfridi10/LeenCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/FahimAfridi10/LeenCode/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/FahimAfridi10/LeenCode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ LeenCode Solution
 | [0001-two-sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/FahimAfridi10/LeenCode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0202-happy-number) |
+| [0389-find-the-difference](https://github.com/FahimAfridi10/LeenCode/tree/master/0389-find-the-difference) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/FahimAfridi10/LeenCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
@@ -75,6 +78,7 @@ LeenCode Solution
 |  |
 | ------- |
 | [0018-4sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0018-4sum) |
+| [0389-find-the-difference](https://github.com/FahimAfridi10/LeenCode/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/FahimAfridi10/LeenCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/FahimAfridi10/LeenCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Linked List
