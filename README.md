@@ -123,4 +123,5 @@ LeenCode Solution
 | [0183-customers-who-never-order](https://github.com/FahimAfridi10/LeenCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/FahimAfridi10/LeenCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/FahimAfridi10/LeenCode/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/FahimAfridi10/LeenCode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
